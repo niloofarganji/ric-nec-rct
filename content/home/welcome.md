@@ -3,8 +3,8 @@ widget: hero
 widget_id: welcome
 headless: true
 weight: 10
-title: "RIC-NEC Phase II Feasibility Randomized Controlled Trial: Remote
-  ischemic conditioning in premature neonates with necrotizing enterocolitis"
+title: Remote ischemic conditioning in premature neonates with necrotizing
+  enterocolitis
 hero_media: welcome.jpg
 design:
   columns: "1"
@@ -664,6 +664,6 @@ design:
 
 <!--StartFragment-->
 
-a *Phase II* multicenter, masked, randomized controlled feasibility trial consisting of two arms: RIC (intervention) and no RIC (control).
+*RIC-NEC: A Phase II* Multicenter, Masked, Feasibility Randomized Controlled Trial consisting of two arms: RIC (intervention) and no RIC (control)
 
 <!--EndFragment-->
