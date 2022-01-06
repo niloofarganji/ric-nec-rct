@@ -11,7 +11,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: world-map.png
+    image: ""
 ---
 <br>
 
